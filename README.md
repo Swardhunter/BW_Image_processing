@@ -39,3 +39,8 @@ Leveraging data from Norge I Bilder, we aim to create a semi-automated land-use 
 ## Results
 
 An overview of the classified areas is presented in the following story map: [View Story Map](https://storymaps.arcgis.com/stories/9b54d4a4e52d4474ac8b71ecce7deecf)
+
+## References
+
+- Kenawi, M. S., Alfredsen, K., Stürzer, L. S., Sandercock, B. K., & Bakken, T. H. (2023). High-resolution mapping of land use changes in Norwegian hydropower systems. *Renewable and Sustainable Energy Reviews, 188*, 113798. [https://doi.org/10.1016/J.RSER.2023.113798](https://doi.org/10.1016/J.RSER.2023.113798)
+
