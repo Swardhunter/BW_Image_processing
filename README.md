@@ -24,6 +24,7 @@ Leveraging data from Norge I Bilder, we aim to create a semi-automated land-use 
 - **Grey Level Co-Occurrence Matrix (GLCM)**: Developed by Haralick et al. in 1973, it includes various measures such as Mean, Variance, Inertia (Contrast), Entropy, Correlation, and Cluster Shade.
 - **Median Filter**: Applied to reduce noise in the images.
 - **Object-Based Image Analysis (OBIA)**: Combines all features where segmentation parameters are set to 100/50, with Shape and Compactness values at 0.1 and 0.8, respectively.
+![Example Image](Figure3.png)
 
 ## Tools
 
