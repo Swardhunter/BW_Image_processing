@@ -33,3 +33,6 @@ Leveraging data from Norge I Bilder, we aim to create a semi-automated land-use 
 - **Object-Based Classification & Refinement**: Executed in eCognition Software by Trimble.
 - **Accuracy Assessment & Visualisation**: Carried out using ArcGIS Pro.
 
+## Results
+
+An overview of the classified areas is presented in the following story map: [View Story Map](https://storymaps.arcgis.com/stories/9b54d4a4e52d4474ac8b71ecce7deecf)
